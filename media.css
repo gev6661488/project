@@ -1,0 +1,309 @@
+@media (max-width:1920px){
+	.bars{
+		display: none;
+	}
+}
+@media (max-width:1440px){
+	.box_1 {
+		padding: 16px 80px 16px 80px;
+	}
+	.cont_1 {
+		width: 50%;
+		height: 50px;
+	}
+	.cont_2 ol {
+		gap: 32px;
+		width: 50%;
+		height: hug(16px);
+	}
+	.bars {
+		display: none;
+	}
+	.box_2 {
+		height: 800px;
+	}
+	.box_3{
+		padding: 80px;
+	}
+	.cont_7 span{
+		display: none;
+	}
+	.cont_7 p {
+		font-size: 18px;
+	}
+	.bx_1 {
+		padding: 80px;
+	}
+	.bx_1_1 h1 {
+		font-size: 40px;
+	}
+	.bx_2 {
+		padding: 80px;
+	}
+	.bx_2_1 {
+		width: 100%;
+		height: 400px;
+	}
+	.bx_2_1_1 h1 {
+	font-size: 40px;
+	}
+	.bx_2_1_2 {
+		height: 80%;
+		margin-top: 6%;
+	}
+	.qr {
+		margin-top: 60px;
+		margin-left: 85px;
+	}
+	.bx_2_1_3 {
+		height: 80%;
+		margin-top: 6%;
+	}
+	.tele {
+		margin-left: 80px;
+		margin-top: 60px;
+	}
+	.bx_3 {
+		padding: 80px 0 80px 80px;
+	}
+	.bx_4_2 {
+		padding: 80px 0 80px 80px;
+		gap: 20px;
+	}
+	.bx_6{
+		padding: 80px;
+	}
+	.bx_7 {
+		padding: 80px;
+	}
+	.bx_8 {
+		padding: 80px;
+	}
+}
+
+
+@media (max-width: 1024px){
+	.box_1 {
+		padding: 16px 40px 16px 40px;
+
+	}
+	.cont_1 {
+		width: 180px;
+		height: 35px;
+	}
+	.cont_1 span {
+		width: 45px;
+		height: 35px;
+	}
+	.cont_2 ol li {
+		display: none;
+	}
+	.cont_2 {
+		display: flex;
+		align-items: center;
+	}
+	.bars {
+		font-size: 32px;
+		display: flex;
+	}
+	.box_2 {
+		height: 600px;
+	}
+	.box_3{
+		padding: 60px 40px 40px 40px;
+		display: flex;
+		flex-direction: column;
+	}
+	.cont_3 {
+		width: 100%;
+	}
+	.cont_4 {
+		width: 100%;
+	}
+	.bx_1 {
+		padding: 40px;
+		display: flex;
+		flex-direction: column;
+	}
+	.bx_1_1 {
+	width: 100%;
+	}
+	.bx_1_2 {
+		width: 100%;
+	}	
+	.bx_2 {
+		padding: 40px;
+		height: 950px;
+	}
+	.bx_2_1 {
+		display: flex;
+		flex-direction: column;
+		height: 32%;
+	}
+	.bx_2_1_1 {
+		width: 100%;
+	}
+	.bx_2_1_2 {
+		width: 100%;
+	}
+	.bx_2_1_3 {
+		width: 100%;
+	}
+	.bx_3 {
+		padding: 40px;
+	}
+	.bx_4_2_1  h1{
+		font-size: 20px;
+	}
+	.bx_3 {
+		padding: 40px;
+	}
+	.bx_4_2 {
+		padding: 40px;
+	}
+	.bx_6 {
+		padding: 40px;
+		display: flex;
+		flex-direction: column;
+	}
+	.bx_6_1 {
+		width: 100%;
+	}
+	.bx_6_2 {
+		width: 100%;
+	}
+	.bx_7 {
+		padding: 80px 40px 80px 40px;
+		height: fit-content;
+	}
+	.bx_7_1 {
+		display: flex;
+		flex-direction: column;
+		height: fit-content;
+	}
+	.bx_7_1_1 {
+		width: 100%;
+		margin-bottom: 50px;
+	}
+	.bx_7_1_2 {
+		width: 100%;
+	}
+	.bx_8 {
+		padding: 60px 40px 60px 40px;
+	}
+	.bx_8_1 h1 {
+		font-size: 20px;
+	}
+	.bx_8_1 p {
+		font-size: 16px;
+	}
+}
+
+
+@media (max-width:375px) {
+	.box_1{
+		padding: 16px;
+	}
+	.box_2 {
+		height: 400px;
+	}
+	.box_3 {
+		padding: 20px 16px 20px 16px;
+	}
+	.cont_3 h1 {
+		font-size: 32px;
+	}
+	.cont_6 {
+		padding-top: 50px;
+		padding-bottom: 10px;
+	}
+	.cont_7 p {
+		font-size: 14px;
+	}
+	.bx_1 {
+		padding: 20px 16px 20px 16px;
+		height: 670px;
+	}
+	.bx_1_2 {
+		display: flex;
+		flex-direction: column;
+	}
+	.bx_1_2_1{
+		width: 100%;
+	}
+	.bx_1_2_1 h1 {
+	font-size: 20px;
+	}
+	.bx_2 {
+		padding: 20px 16px 20px 16px;
+		height: 650px;
+	}
+	.bx_2_1_1 {
+		gap: 10px;
+		padding-top: 5px;
+		padding-left: 10px;
+	}
+	.bx_2_1_1 h1 {
+	font-size: 28px;
+	}
+	.bx_2_1_2 {
+		display: none;
+	}
+	.bx_2_1_3 {
+		height: 500px;
+	}
+	.tele {
+		font-size: 250px;
+		padding-left: 20px;
+	}
+	.bx_3 {
+		height: fit-content;
+		padding: 20px 16px 20px 16px;
+	}
+	.bx_4_2 {
+		display: flex;
+		flex-direction: column;
+		padding: 20px 16px 20px 16px;
+		height: fit-content;
+	}
+	.bx_4_2_1 {
+		width: 100%;
+	}
+	.bx_4_2_1  p{
+		font-size: 14px;
+	}
+	.bx_6{
+		padding: 20px 16px 20px 16px;
+		height: fit-content;
+	}
+	.bx_6_1 h1 {
+		font-size: 32px;
+	}
+	.bx_6_2_1 span {
+		font-size: 14px;
+	}
+	.bx_7{
+		padding: 40px 16px 40px 16px;
+	}
+	.bx_7_1 {
+		padding: 40px 24px 40px 24px;
+	}
+	.bx_7_1_1 h1 {
+		font-size: 28px;
+	}
+	.bx_7_1_1 p {
+		font-size: 14px;
+	}
+	.bx_7_1_2 button {
+		width: 270px;
+	}
+	.bx_8 {
+		height: fit-content;
+		padding: 40px 16px 40px 16px;
+		display: flex;
+		flex-direction: column;
+	}
+	.bx_8_1 {
+		width: 100%;
+	}
+}
